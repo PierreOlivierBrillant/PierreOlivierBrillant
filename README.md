@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je m'appelle Pierre-Olivier</h1>
-<h3 align="center">Étudiant à l'UQAMa au Baccalautéat au Génie Logiciel</h3>
+<h3 align="center">Étudiant à l'UQAM au Baccalautéat au Génie Logiciel</h3>
 
 Mon courriel : **pierreolivierbrillant@gmail.com**
 
