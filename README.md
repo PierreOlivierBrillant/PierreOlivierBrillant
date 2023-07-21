@@ -9,7 +9,7 @@
 PierreOlivierBrillant@github
 -------------------------
 💻 J'ai gradué du DEC en informatique de gestion au CÉGEP Édouard-Montpetit
-📚 J'ai gradué du Bac en Informatique et Génie Logiciel à l'UQAM
+📚 J'ai gradué du Bac en informatique et génie logiciel à l'UQAM
 📝 J'aime bien en apprendre davantage sur la création de langage
 🔭 J'ai souvent un projet personnel en chantier. Hésites pas à m'en parler!
 🌱 J'enseigne au CÉGEP Édouard-Montpetit en informatique de gestion
