@@ -1,16 +1,89 @@
-<h1 align="center">Salut 👋, je m'appelle Pierre-Olivier</h1>
-<h3 align="center">Enseignant en informatique</h3>
+<h1 align="center">Salut, je m'appelle Pierre-Olivier</h1>
 
-Mon courriel : **pierreolivierbrillant@gmail.com**
+<br/>
 
-<h3 align="left">Vous pouvez me rejoindre ici:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pierreolivier-brillant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pierreolivier-brillant" height="30" width="40" /></a>
-<a href="https://fb.com/pobrillant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pobrillant" height="30" width="40" /></a>
+<img align="left" src="https://github.com/PierreOlivierBrillant/PierreOlivierBrillant/blob/main/photo.png" width="320" />
+<hr>
+
+```
+PierreOlivierBrillant@github
+-------------------------
+💻 J'ai gradué du DEC en informatique de gestion au CÉGEP Édouard-Montpetit
+📚 J'ai gradué du Bac en Informatique et Génie Logiciel à l'UQAM
+📝 J'aime bien en apprendre davantage sur la création de langage
+🔭 J'ai souvent un projet personnel en chantier. Hésites pas à m'en parler!
+🌱 J'enseigne au CÉGEP Édouard-Montpetit en informatique de gestion
+🌟 Je donne les cours de Java, Android et Flutter
+🚩 J'adore les CTF
+🎵 Folk queb, rock psychédélique, blues rock, jazz, 60's
+```
+
+<hr>
+
+## 🛠️ Les outils que je préfères
+
+### 👨‍💻 Langages de programmation
+
+<p>
+    <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%231572B6.svg?logo=dart&logoColor=white">
+    <img alt="CSharp" src="https://img.shields.io/badge/-%23E34F26.svg?logo=csharp&logoColor=white">
+    <img alt="Cpp" src="https://img.shields.io/badge/-%23659BD3.svg?logo=cplusplus&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/%20-%23659BD3.svg?logo=c&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%232F74C0.svg?logo=typescript&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
+
+### 🧰 Frameworks et Libraries
+
+<p>
+    <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000000.svg?logo=flask&logoColor=white">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white">
+    <img alt="Android" src="https://img.shields.io/badge/Android%20-%233DDC84.svg?logo=android&logoColor=white">
+    <img alt=".NET" src="https://img.shields.io/badge/%20-%23512BD4.svg?logo=.net&logoColor=white">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=61DAFB">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
+
 </p>
 
-<h3 align="left">Langage et outils:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🗄️ Bases de données and Hébergmenet
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pierreolivierbrillant&show_icons=true&locale=fr&count_private=true" alt="pierreolivierbrillant" /></p>
+<p>
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white">
+    <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white">
+    <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white">
+    <img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white">
+</p>
 
+### 💻 Software and Tools
+
+<p>
+    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20-%23000000.svg?logo=intellijidea&logoColor=white">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=Docker&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+</p>
+
+## GitHub Stats
+
+|                                                                     Vishal's Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![](https://activity-graph.herokuapp.com/graph?username=PierreOlivierBrillant&theme=react-dark&hide_border=true&area=true) |
+| ![](https://github-readme-stats.vercel.app/api?username=PierreOlivierBrillant&show_icons=true&theme=algolia)              |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=PierreOlivierBrillant&theme=algolia)                    |
+
+|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![](https://github-readme-stats.vercel.app/api?username=PierreOlivierBrillant&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreOlivierBrillant&langs_count=8&theme=algolia&layout=compact) |
