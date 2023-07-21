@@ -83,7 +83,4 @@ PierreOlivierBrillant@github
 | ![](https://activity-graph.herokuapp.com/graph?username=PierreOlivierBrillant&theme=react-dark&hide_border=true&area=true) |
 | ![](https://github-readme-stats.vercel.app/api?username=PierreOlivierBrillant&show_icons=true&theme=algolia)              |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=PierreOlivierBrillant&theme=algolia)                    |
-
-|                                                                                                      Étoiles                                                                                                       |                                                           Top Languages                                                           |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![](https://github-readme-stats.vercel.app/api?username=PierreOlivierBrillant&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreOlivierBrillant&langs_count=8&theme=algolia&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreOlivierBrillant&langs_count=8&theme=algolia&layout=compact&custom_title=Langages%20que%20j%27utilise) |
